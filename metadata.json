@@ -1,0 +1,5 @@
+{
+  "name": "Wensenlijst App",
+  "description": "Een eenvoudige app waarmee meerdere deelnemers elk een lijst van vijf wensen kunnen invoeren. De gegevens worden lokaal opgeslagen in de browser.",
+  "requestFramePermissions": []
+}
